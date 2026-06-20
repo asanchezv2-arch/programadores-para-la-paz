@@ -1,0 +1,17 @@
+Pregunta 8 - Crear una ruta POST
+
+¿Qué hace esta ruta?
+
+La ruta POST /reporte recibe información enviada por el cliente en el cuerpo de la solicitud. Extrae el valor de la propiedad mensaje y responde con un objeto JSON que confirma la recepción del reporte.
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Podría utilizarse para que los miembros de la comunidad envíen reportes sobre problemas o situaciones que requieran atención, por ejemplo:
+
+- Reportar daños en calles o parques.
+- Informar sobre falta de alumbrado público.
+- Enviar sugerencias para mejorar la comunidad.
+- Notificar incidentes o emergencias.
+- Registrar quejas o comentarios de los vecinos.
+
+La ruta permite que la aplicación reciba información enviada por los usuarios y la procese posteriormente.
