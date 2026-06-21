@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes o información de forma estructurada 
+porque esto facilita la organización y el análisis de los datos. Cuando los ciudadanos envían información 
+en un formato definido, las instituciones pueden procesarla de manera más rápida y eficiente. Además, se 
+reducen los errores y la pérdida de información relevante. Los datos estructurados permiten identificar problemas 
+comunes y generar estadísticas útiles para la toma de decisiones. También ayudan a dar seguimiento a cada reporte
+de forma ordenada. De esta manera, se mejora la comunicación entre los ciudadanos y las organizaciones. Asimismo, 
+se optimizan los tiempos de respuesta y la calidad de los servicios. En conclusión, la información estructurada 
+contribuye a una gestión más eficiente, transparente y confiable.

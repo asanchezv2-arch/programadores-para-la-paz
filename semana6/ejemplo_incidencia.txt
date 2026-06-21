@@ -1,0 +1,11 @@
+{
+    "tipo": "Estado de la via",
+    "descripción": " El estado de la via principal de la comunidad impide el acceso de vehiculos"
+}
+
+Respuesta:
+{
+    "mensaje": "incidencia registrada",
+    "tipo": "Estado de la via",
+    "descripcion": " El estado de la via principal de la comunidad impide el acceso de vehiculos"
+}
