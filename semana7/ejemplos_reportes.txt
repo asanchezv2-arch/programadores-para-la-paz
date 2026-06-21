@@ -1,0 +1,11 @@
+Ejemplo 1: 
+{
+  "tipo": "Seguridad",
+  "descripcion": "Semáforo fuera de servicio en una intersección principal"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Movilidad",
+  "descripcion": "Hueco de gran tamaño que dificulta el tránsito vehicular"
+}

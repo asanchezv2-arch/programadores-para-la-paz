@@ -1,0 +1,27 @@
+POST:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+El servidor recibió la información, creó un nuevo reporte y respondió:
+{
+  "message": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+GET
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+la API consulta los datos almacenados y devuelve un arreglo con los reportes registrados:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
