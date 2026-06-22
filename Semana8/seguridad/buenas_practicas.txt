@@ -1,0 +1,3 @@
+Activar la autenticación de dos factores (2FA).
+Mantener el sistema operativo y las aplicaciones actualizadas.
+No compartir credenciales ni información sensible.

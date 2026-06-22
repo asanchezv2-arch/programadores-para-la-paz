@@ -1,0 +1,8 @@
+@asanchezv2-arch ➜ /workspaces/programadores-para-la-paz/Semana8/seguridad (main) $ uname -a
+Linux codespaces-64ff76 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+@asanchezv2-arch ➜ /workspaces/programadores-para-la-paz/Semana8/seguridad (main) $ whoami
+codespace
+
+Conocer la información del sistema es útil al administrar un servidor porque permite identificar el sistema operativo, 
+verificar versiones, detectar posibles problemas de compatibilidad, aplicar actualizaciones adecuadas y gestionar correctamente 
+los permisos y usuarios del sistema, mejorando así la seguridad y el mantenimiento del servidor.

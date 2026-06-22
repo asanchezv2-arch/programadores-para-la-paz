@@ -1,0 +1,6 @@
+1. Usar contraseñas seguras y autenticación de dos factores (2FA)** para proteger las cuentas de los usuarios.
+2. Asignar permisos según el rol de cada usuario**, evitando accesos innecesarios a información sensible.
+3. Mantener el sistema y las aplicaciones actualizadas** para corregir vulnerabilidades de seguridad.
+4. Realizar copias de seguridad periódicas** para evitar la pérdida de información importante.
+5. Capacitar a los usuarios en buenas prácticas de seguridad digital**, como identificar correos fraudulentos y proteger 
+sus credenciales.
