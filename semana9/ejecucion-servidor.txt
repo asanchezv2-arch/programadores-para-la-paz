@@ -1,0 +1,23 @@
+Ejecución del servidor
+
+1. Al ejecutar el comando:
+   node server.js
+
+   El servidor inicia correctamente y queda escuchando solicitudes en el puerto 3000.
+
+2. Mensaje que aparece en la terminal:
+
+   Servidor ejecutándose en puerto 3000
+
+3. Al visitar la ruta:
+
+   https://literate-enigma-p7j5wppvrp7727r9g-3000.app.github.dev/estado
+
+   El servidor responde con un objeto JSON que informa el estado del servicio.
+
+Respuesta obtenida:
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
