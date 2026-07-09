@@ -1,0 +1,5 @@
+La interfaz de la plataforma tendrá una pantalla principal donde se mostrarán las causas disponibles con su título, una breve 
+descripción y el número de apoyos recibidos. En la parte superior habrá un formulario para crear una nueva causa, con campos 
+para el título y la descripción, además de un botón para publicarla. Cada causa contará con un botón "Apoyar" para que los 
+usuarios puedan respaldarla fácilmente. Al presionar el botón, el contador de apoyos se actualizará para reflejar el nuevo total. 
+La interfaz será sencilla, clara y fácil de usar para facilitar la participación de la comunidad.

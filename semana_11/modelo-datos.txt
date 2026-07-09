@@ -1,0 +1,23 @@
+Entidad 1: Reporte
+
+Campos principales:
+- ID del reporte
+- Título
+- Descripción
+- Fecha de registro
+- Estado
+
+Propósito de la información:
+Almacenar la información de cada reporte realizado por la comunidad para facilitar su seguimiento y gestión.
+
+Entidad 2: Usuario
+
+Campos principales:
+- ID del usuario
+- Nombre
+- Correo electrónico
+- Rol
+- Fecha de registro
+
+Propósito de la información:
+Identificar a las personas que utilizan la plataforma y gestionar sus permisos según el rol que desempeñan.
