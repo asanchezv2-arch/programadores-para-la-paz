@@ -1,0 +1,9 @@
+Evento que activa el flujo:
+Cuando un coordinador cambia el estado de un reporte a "urgente".
+
+Mensaje que se enviaría a Telegram:
+"Se marcó un reporte como urgente. Ingrese a la plataforma para revisar el caso y realizar las acciones correspondientes."
+
+¿Qué información no debería enviarse por seguridad?
+No se deben enviar datos personales de los ciudadanos, como nombres, números de identificación, direcciones, teléfonos, correos electrónicos, 
+fotografías, ni información confidencial relacionada con el reporte.
