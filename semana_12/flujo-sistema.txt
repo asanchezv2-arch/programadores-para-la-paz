@@ -1,0 +1,11 @@
+1. El ciudadano inicia sesión en la plataforma y completa el formulario para crear una petición.
+
+2. La petición queda registrada en la base de datos con el estado "pendiente_revision".
+
+3. Un revisor verifica la información y, si es necesario, solicita ajustes o aprueba la petición.
+
+4. Una vez aprobada, otros ciudadanos pueden ingresar a la plataforma y apoyar la petición.
+
+5. El sistema actualiza automáticamente el contador de apoyos y muestra el avance en el dashboard.
+
+6. Cuando la petición cumple los requisitos establecidos, la plataforma genera el documento final para su descarga y presentación ante la entidad correspondiente.

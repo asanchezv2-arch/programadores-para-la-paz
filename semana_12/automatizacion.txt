@@ -1,0 +1,8 @@
+Evento que activa la automatización:
+Cuando una petición cambia de estado a "aprobada".
+
+Mensaje que se envía:
+"La petición fue aprobada y ya está disponible para recibir apoyos. Revise la plataforma para más detalles."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar nombres completos, números de identificación, direcciones, teléfonos, contraseñas, correos electrónicos ni el contenido completo de la petición o cualquier otro dato personal sensible.
